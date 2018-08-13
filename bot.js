@@ -7,17 +7,47 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-Invite Rewards;
-10 Invites Reward: 1 UFA Minecraft Account
-25 Invites Reward: 3 UFA Minecraft Accounts
-50 Invites Reward: 5 UFA Minecraft Accounts
-100 Invites Reward: 10 UFA Minecraft Accounts
-Or Pick
-10 Invites Reward: 1 VPN Account
-25 Invites Reward: 3 VPN Accounts
-50 Invites Reward: 5 VPN Accounts
-100 Invites Reward: 10 VPN Accounts
-https://discord.gg/tw9j77P
+[10+ People Invited]
+➤ [:page_with_curl:] Tier I
+➤ [:money_with_wings:] $40 Paypal
+
+[20+ People Invited]
+➤ [:page_with_curl:] Tier II
+➤ [:money_with_wings:] $80 Paypal
+
+[30+ People Invited]
+➤ [:page_with_curl:] Tier III
+➤ [:money_with_wings:] $140 Paypal
+
+[40+ People Invited]
+➤ [:page_with_curl:] Tier IV
+➤ [:money_with_wings:] $360 Paypal
+
+[50+ People Invited]
+➤ [:page_with_curl:] Tier V
+➤ [:money_with_wings:] $420 Paypal
+
+[60+ People Invited]
+➤ [:page_with_curl:] Tier VI
+➤ [:money_with_wings:] $145 Paypal
+
+[70+ People Invited]
+➤ [:page_with_curl:] Tier VII
+➤ [:money_with_wings:] $340 Paypal
+
+**[80+ People Invited]
+➤ [:page_with_curl:] Tier VIII
+➤ [:money_with_wings:] $700 Paypal
+
+[90+ People Invited]
+➤ [:page_with_curl:] Tier IX
+➤ [:money_with_wings:] $840 Paypal
+
+[100+ People Invited]
+➤ [:page_with_curl:] Tier X
+➤ [:money_with_wings:] $1,000 Paypal
+Note: People who reach 50 Invites will be paid directly.
+https://discordapp.com/invite/f9F7fud
  ... [ ${member}  ]
 **`) 
 }).catch(console.error)
@@ -28,17 +58,47 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-Invite Rewards;
-10 Invites Reward: 1 UFA Minecraft Account
-25 Invites Reward: 3 UFA Minecraft Accounts
-50 Invites Reward: 5 UFA Minecraft Accounts
-100 Invites Reward: 10 UFA Minecraft Accounts
-Or Pick
-10 Invites Reward: 1 VPN Account
-25 Invites Reward: 3 VPN Accounts
-50 Invites Reward: 5 VPN Accounts
-100 Invites Reward: 10 VPN Accounts
-https://discord.gg/tw9j77P
+[10+ People Invited]
+➤ [:page_with_curl:] Tier I
+➤ [:money_with_wings:] $40 Paypal
+
+[20+ People Invited]
+➤ [:page_with_curl:] Tier II
+➤ [:money_with_wings:] $80 Paypal
+
+[30+ People Invited]
+➤ [:page_with_curl:] Tier III
+➤ [:money_with_wings:] $140 Paypal
+
+[40+ People Invited]
+➤ [:page_with_curl:] Tier IV
+➤ [:money_with_wings:] $360 Paypal
+
+[50+ People Invited]
+➤ [:page_with_curl:] Tier V
+➤ [:money_with_wings:] $420 Paypal
+
+[60+ People Invited]
+➤ [:page_with_curl:] Tier VI
+➤ [:money_with_wings:] $145 Paypal
+
+[70+ People Invited]
+➤ [:page_with_curl:] Tier VII
+➤ [:money_with_wings:] $340 Paypal
+
+**[80+ People Invited]
+➤ [:page_with_curl:] Tier VIII
+➤ [:money_with_wings:] $700 Paypal
+
+[90+ People Invited]
+➤ [:page_with_curl:] Tier IX
+➤ [:money_with_wings:] $840 Paypal
+
+[100+ People Invited]
+➤ [:page_with_curl:] Tier X
+➤ [:money_with_wings:] $1,000 Paypal
+Note: People who reach 50 Invites will be paid directly.
+https://discordapp.com/invite/f9F7fud
  ... [ ${member}  ]
 **`)
 }).catch(console.error)
