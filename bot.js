@@ -47,7 +47,7 @@ console.log("Welcome Again !");
 ➤ [:page_with_curl:] Tier X
 ➤ [:money_with_wings:] $1,000 Paypal
 Note: People who reach 50 Invites will be paid directly.
-https://discordapp.com/invite/f9F7fud
+https://discord.gg/QdNU7d8
  ... [ ${member}  ]
 **`) 
 }).catch(console.error)
@@ -98,7 +98,7 @@ client.on("guildMemberAdd", member => {
 ➤ [:page_with_curl:] Tier X
 ➤ [:money_with_wings:] $1,000 Paypal
 Note: People who reach 50 Invites will be paid directly.
-https://discordapp.com/invite/f9F7fud
+https://discord.gg/QdNU7d8
  ... [ ${member}  ]
 **`)
 }).catch(console.error)
