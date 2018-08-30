@@ -7,18 +7,17 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-اول موقع عربي لحسابات ماين كرافت 
-فل اكسس | شبه فل داتا | عادية 
-مجانا" !!؟؟
-http://www.arabalts.tk/
-========================================
-[Hello i make a free minecraft alts web
-full Access | Semi Full Data | Normal
-Free 100% I hope you like it and support me by posting
-to post more and more accounts]
-http://www.arabalts.tk
+:moneybag:|20 Invites| - @Royal Minister & $20 PayPal
+
+:moneybag:|35 Invites| - @Landed Gentry & $30 PayPal
+
+:moneybag:|50 Invites| - @Clergy & $40 PayPal
+
+:moneybag:|100 Invites| - @Monarch $65 PayPal
+https://discord.gg/SPwKU2
+
  ... [ ${member}  ]
-**`)
+**`) 
 }).catch(console.error)
 
 })
@@ -27,18 +26,17 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-اول موقع عربي لحسابات ماين كرافت 
-فل اكسس | شبه فل داتا | عادية 
-مجانا" !!؟؟
-http://www.arabalts.tk/
-========================================
-[Hello i make a free minecraft alts web
-full Access | Semi Full Data | Normal
-Free 100% I hope you like it and support me by posting
-to post more and more accounts]
-http://www.arabalts.tk
+:moneybag:|20 Invites| - @Royal Minister & $20 PayPal
+
+:moneybag:|35 Invites| - @Landed Gentry & $30 PayPal
+
+:moneybag:|50 Invites| - @Clergy & $40 PayPal
+
+:moneybag:|100 Invites| - @Monarch $65 PayPal
+https://discord.gg/SPwKU2
+
  ... [ ${member}  ]
-**`)
+**`) 
 }).catch(console.error)
 })
 
