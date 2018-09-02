@@ -7,14 +7,11 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-:moneybag:|20 Invites| - @Royal Minister & $20 PayPal
-
-:moneybag:|35 Invites| - @Landed Gentry & $30 PayPal
-
-:moneybag:|50 Invites| - @Clergy & $40 PayPal
-
-:moneybag:|100 Invites| - @Monarch $65 PayPal
-https://discord.gg/SPwKU2
+افضل موقع للحصول على حسابات ماين كرافت و فورت نايت مجانا 100% و
+العديد من انواع الحسابات مثل فل داتا فل اكسس و عادي و حسابات فورت نايت فيها سكنات و بكجات و الكثير للمزيد زوروا الموقع 
+Best site to get the accounts of Maine Craft and Fortnight 100% free
+Many types of accounts, such as full Data and full Access and Normal and Fortnight accounts where skins and password change and ultimate v-bucks and much more visit the site
+http://www.arabalts.tk
 
  ... [ ${member}  ]
 **`) 
@@ -26,14 +23,11 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-:moneybag:|20 Invites| - @Royal Minister & $20 PayPal
-
-:moneybag:|35 Invites| - @Landed Gentry & $30 PayPal
-
-:moneybag:|50 Invites| - @Clergy & $40 PayPal
-
-:moneybag:|100 Invites| - @Monarch $65 PayPal
-https://discord.gg/SPwKU2
+افضل موقع للحصول على حسابات ماين كرافت و فورت نايت مجانا 100% و
+العديد من انواع الحسابات مثل فل داتا فل اكسس و عادي و حسابات فورت نايت فيها سكنات و بكجات و الكثير للمزيد زوروا الموقع 
+Best site to get the accounts of Maine Craft and Fortnight 100% free
+Many types of accounts, such as full Data and full Access and Normal and Fortnight accounts where skins and password change and ultimate v-bucks and much more visit the site
+http://www.arabalts.tk
 
  ... [ ${member}  ]
 **`) 
