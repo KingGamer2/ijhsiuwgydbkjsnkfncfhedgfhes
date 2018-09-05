@@ -7,11 +7,16 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-افضل موقع للحصول على حسابات ماين كرافت و فورت نايت مجانا 100% و
-العديد من انواع الحسابات مثل فل داتا فل اكسس و عادي و حسابات فورت نايت فيها سكنات و بكجات و الكثير للمزيد زوروا الموقع 
-Best site to get the accounts of Maine Craft and Fortnight 100% free
-Many types of accounts, such as full Data and full Access and Normal and Fortnight accounts where skins and password change and ultimate v-bucks and much more visit the site
-http://www.arabalts.tk
+السلام عليكم شباب 
+اليوم افتتاح موقع اختصار الروابط لي اتمنى الكل يسجل فيه 
+
+
+http://www.king4earn.tk
+
+Hello I make a url shortner site that you can short your urls and get money for that with good referal links
+hope you like it and register to us
+
+http://www.king4earn.tk
 
  ... [ ${member}  ]
 **`) 
@@ -23,11 +28,16 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-افضل موقع للحصول على حسابات ماين كرافت و فورت نايت مجانا 100% و
-العديد من انواع الحسابات مثل فل داتا فل اكسس و عادي و حسابات فورت نايت فيها سكنات و بكجات و الكثير للمزيد زوروا الموقع 
-Best site to get the accounts of Maine Craft and Fortnight 100% free
-Many types of accounts, such as full Data and full Access and Normal and Fortnight accounts where skins and password change and ultimate v-bucks and much more visit the site
-http://www.arabalts.tk
+السلام عليكم شباب 
+اليوم افتتاح موقع اختصار الروابط لي اتمنى الكل يسجل فيه 
+
+
+http://www.king4earn.tk
+
+Hello I make a url shortner site that you can short your urls and get money for that with good referal links
+hope you like it and register to us
+
+http://www.king4earn.tk
 
  ... [ ${member}  ]
 **`) 
