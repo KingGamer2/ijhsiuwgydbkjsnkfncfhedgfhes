@@ -7,16 +7,20 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-السلام عليكم شباب 
-اليوم افتتاح موقع اختصار الروابط لي اتمنى الكل يسجل فيه 
+KinGShoPسيرفر
+=========================================
+_سيرفر جديد_
 
+الخدمات: 
 
-http://www.king4earn.tk
-
-Hello I make a url shortner site that you can short your urls and get money for that with good referal links
-hope you like it and register to us
-
-http://www.king4earn.tk
+-انشاء بوت ديسكورد بكل الانواع
+- اضافة بوتك لاستضافة وتدفع مرةواحدة
+- حسابات ماينكرافت كل الانواع
+- تصميم مواقع وشراء دومينات
+- تفعيل سكربت اختصار الروابط 
+....واكثر
+الدفع بايبال او كردت واسعار ممتازة
+ للمزيد : https://discord.gg/cxWmK9G
 
  ... [ ${member}  ]
 **`) 
@@ -28,16 +32,20 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-السلام عليكم شباب 
-اليوم افتتاح موقع اختصار الروابط لي اتمنى الكل يسجل فيه 
+KinGShoPسيرفر
+=========================================
+_سيرفر جديد_
 
+الخدمات: 
 
-http://www.king4earn.tk
-
-Hello I make a url shortner site that you can short your urls and get money for that with good referal links
-hope you like it and register to us
-
-http://www.king4earn.tk
+-انشاء بوت ديسكورد بكل الانواع
+- اضافة بوتك لاستضافة وتدفع مرةواحدة
+- حسابات ماينكرافت كل الانواع
+- تصميم مواقع وشراء دومينات
+- تفعيل سكربت اختصار الروابط 
+....واكثر
+الدفع بايبال او كردت واسعار ممتازة
+ للمزيد : https://discord.gg/cxWmK9G
 
  ... [ ${member}  ]
 **`) 
